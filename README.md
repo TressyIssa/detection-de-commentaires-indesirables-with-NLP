@@ -1,4 +1,5 @@
 # Détection de Spam avec NLP et Machine Learning
+![alt text](02.png)
 
 ## Introduction
 
@@ -107,5 +108,7 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 ---
 
-Pour toute question ou suggestion, n'hésitez pas à contacter l'équipe de développement.
+Pour toute question ou suggestion, n'hésitez pas à contacter :
+
+- Email : issafiti02@gmail.com
 
